@@ -38,11 +38,4 @@ const PostsList = ({ isPosting, onStopPosting }) => {
 
 export default PostsList;
 
-// cd, ls & npm start
-
-// git init
-// git add README.md
-//
-// git branch -M main
-// git remote add origin https://github.com/Sibonelo912gthub/simple-react-app.git
-// git push -u origin main
+// cd, ls & npm run dev
